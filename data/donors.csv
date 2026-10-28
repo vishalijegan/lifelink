@@ -1,0 +1,6 @@
+id,name,age,gender,bloodGroup,mobile,city,lastDonationDate,available,contactConsent
+"a7f59a3e-304a-41a1-be83-bdc3b441256e","Vishali J","18","Female","O+","6384887385","Dindigul","","true","true"
+"18873190-4bda-4312-91df-e8069cf1fe0c","Sweka J","25","Female","O+","9655562067","Dindigul","","true","false"
+"00fe7159-cc73-4aee-9727-0854dc8917c6","Kavitha J","45","Female","A+","9785453617","Theni","","true","false"
+"7fc40175-5650-4ceb-9fb6-b6b39a447f2c","Arjun M","27","Male","B+","9915459767","Dindigul","","true","false"
+"e2ae36fa-74ac-4f55-a3db-f66a5c5394ce","Jeganathan P","50","Male","A+","6365878067","Dindigul","","true","true"
